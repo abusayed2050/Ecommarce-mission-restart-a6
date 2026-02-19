@@ -1,5 +1,5 @@
 
-# What is the difference between `null` and `undefined`?
+## 1. What is the difference between `null` and `undefined`?
 
 ### `null`
 - কোন value assign করা হবে না।
@@ -10,7 +10,7 @@
 
 ---
 
-## 1. What is the use of the `map()` function in JavaScript? How is it different from `forEach()`?
+## 2. What is the use of the `map()` function in JavaScript? How is it different from `forEach()`?
 
 ### `map()`
 - Array-এর প্রতিটি উপাদানকে পরিবর্তন করে **নতুন array return** করে।  
@@ -22,21 +22,21 @@
 
 ---
 
-## 2. What is the difference between `==` and `===`?
+## 3. What is the difference between `==` and `===`?
 
 - `==` → শুধু **value** check করে  
 - `===` → **value এবং type** উভয় check করে  
 
 ---
 
-## 3. What is the significance of `async/await` in fetching API data?
+## 4. What is the significance of `async/await` in fetching API data?
 
 - `async/await` ব্যবহার করে **sequentially data fetch** করা যায়  
 - কোড লেখা হয় সহজ এবং readable  
 
 ---
 
-## 4. Explain the concept of Scope in JavaScript (Global, Function, Block)
+## 5. Explain the concept of Scope in JavaScript (Global, Function, Block)
 
 ### Global Scope
 - Variable কে **code-এর যে কোন জায়গা থেকে access** করা যায়  
